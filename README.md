@@ -1,1 +1,2 @@
-# E-COMMERCE-CUSTOMER-SEGMENTATION-
+# eCommerceCustomerSegmentation
+This project employs K-means clustering to segment e-commerce customers based on their purchasing behavior and demographic information. By analyzing customer data, the study aims to identify distinct customer groups with similar characteristics. The resulting customer segments can be leveraged to develop targeted marketing strategies, improve customer satisfaction, and enhance overall business performance. The effectiveness of the clustering model is assessed using appropriate evaluation metrics.
